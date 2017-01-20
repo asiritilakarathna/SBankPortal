@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBankPortal", "SBankPortal\SBankPortal.csproj", "{260C4301-D0CF-4D9B-B1A5-56AA86162E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal2", "Portal2\Portal2.csproj", "{EF46CFE0-D38C-4682-BF9B-A5CD1AE664D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal2.Tests", "Portal2.Tests\Portal2.Tests.csproj", "{B38C9F87-B0E0-4116-9968-9D644337357D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{260C4301-D0CF-4D9B-B1A5-56AA86162E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{260C4301-D0CF-4D9B-B1A5-56AA86162E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{260C4301-D0CF-4D9B-B1A5-56AA86162E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF46CFE0-D38C-4682-BF9B-A5CD1AE664D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF46CFE0-D38C-4682-BF9B-A5CD1AE664D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF46CFE0-D38C-4682-BF9B-A5CD1AE664D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF46CFE0-D38C-4682-BF9B-A5CD1AE664D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38C9F87-B0E0-4116-9968-9D644337357D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38C9F87-B0E0-4116-9968-9D644337357D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38C9F87-B0E0-4116-9968-9D644337357D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38C9F87-B0E0-4116-9968-9D644337357D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
